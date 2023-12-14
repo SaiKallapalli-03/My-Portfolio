@@ -1,0 +1,148 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+     
+}
+ 
+header {
+    margin: 0;
+    padding: 0px;
+      
+    
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #0d0b0b;
+  }
+  
+  li {
+    float:center;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    font-size: 1.2em;
+    padding: 10px;
+    text-decoration: none;
+  }
+  
+ 
+nav a:hover {
+    background-color:rgb(9, 237, 9);  
+}
+ 
+
+#home {
+    background-color: rgb(9, 237, 9);;
+    padding: 40px 20px;
+    margin: 30px 20px ;
+    text-align: left;
+    border: #0a0a0a solid 0.2em;
+    border-radius: 20px;
+}
+
+#home h2 {
+    color: #000000;
+    font-family: 'Merriweather', serif,'Vina Sans', sans-serif;
+}
+
+#home p {
+    color: #020202;
+    font-size: 20px;
+    font-family: 'Merriweather', serif;
+font-family: 'Sriracha', cursive;
+}
+span{
+    background-color: #000000;
+    color: white;
+    padding: 8px;
+}
+ 
+#about {
+    background-color:rgb(9, 237, 9);;
+    padding: 50px 20px;
+    margin:30px 20px ;
+    text-align: right;
+    border: #0a0a0a solid 0.2em;
+    border-radius: 20px;
+}
+
+#about h2 {
+    color: #000000;
+    font-family: 'Merriweather', serif,'Vina Sans', sans-serif;
+    
+}
+ 
+#about p {
+    color: #000000;
+    font-size: 24px;
+    line-height: 1.8;
+    font-family: 'Merriweather', serif;
+font-family: 'Sriracha', cursive;
+}
+
+ 
+#skills {
+    background-color:rgb(9, 237, 9);;
+    padding: 50px 20px;
+    margin:30px 20px ;
+    text-align:left;
+    border: #0a0a0a solid 0.2em;
+    border-radius: 20px;
+}
+
+#skills h2 {
+    color: #070707;
+    font-family: 'Merriweather', serif,'Vina Sans', sans-serif;
+}
+
+#skills p {
+    color: #0a0a0a;
+    font-size:  24px;
+    line-height: 1.6;
+    font-family: 'Merriweather', serif;
+     font-family: 'Sriracha', cursive;
+}
+
+ 
+ 
+
+#contact {
+    background-color:rgb(9, 237, 9);;
+    padding: 50px 20px;
+    margin:30px 20px ;
+    text-align:center;
+    border: #0a0a0a solid 0.2em;
+    border-radius: 20px;
+}
+
+#contact h2 {
+    color: #070707;
+    font-family: 'Merriweather', serif,'Vina Sans', sans-serif;
+ 
+}
+
+#contact p {
+    color: #0a0a0a;
+    font-size:  22px;
+    font-family: 'Merriweather', serif;
+    font-family: 'Sriracha', cursive;
+
+}
+ 
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+ 
